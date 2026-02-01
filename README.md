@@ -1,2 +1,2 @@
-# odin-game
+# Project Rock-Paper-Scissors
 Project Rock-Paper-Scissors
